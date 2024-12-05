@@ -1,5 +1,9 @@
 #!/bin/bash
 
+#
+# This example usage does not account for known positions
+#
+
 have_nots="r t y u i a s g h l b m"
 haves="o n e"
 
